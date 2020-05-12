@@ -8,5 +8,5 @@ A simple fultter app that counts number of words that are typed dynamically on t
 2: use of TextField
 3: use of Stateful widget to handle state
 
-<img src="https://drive.google.com/file/d/14fhZairUHZrx9KgoQlGn0MlbCGLbHHNJ/view?usp=sharing">
+<img src="res.png">
 
