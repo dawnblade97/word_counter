@@ -1,16 +1,12 @@
 # text_counter
 
-A new Flutter project.
+A simple fultter app that counts number of words that are typed dynamically on the go
 
-## Getting Started
+## what will you learn
 
-This project is a starting point for a Flutter application.
+1: use of stateless widget
+2: use of TextField
+3: use of Stateful widget to handle state
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://drive.google.com/file/d/14fhZairUHZrx9KgoQlGn0MlbCGLbHHNJ/view?usp=sharing">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
